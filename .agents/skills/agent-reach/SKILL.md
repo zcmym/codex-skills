@@ -10,7 +10,7 @@ description: >
   公开内容优先用 Agent 自带工具，Reach 补缺口。
 metadata:
   homepage: https://github.com/Panniantong/Agent-Reach
-  version: "{{VERSION}}"
+  version: "source-template"
 ---
 
 # Agent Reach
